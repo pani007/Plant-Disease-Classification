@@ -16,3 +16,11 @@ A sample model For plant Disease classification
 ### Confusion matrix on test data
 ![image](https://user-images.githubusercontent.com/69764607/167297549-5d32e803-b8df-4be3-9593-14a00787c939.png)
 
+The Accuracy score on test data is 78%
+- It can be improved by increasing model layers
+- Augmenting Data
+- Using Transfer Learning
+
+### I will try to implement`VGG16` and `resnet50` transfer learning architectures
+
+
